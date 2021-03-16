@@ -1,0 +1,265 @@
+State,Date,Turnover rate
+Andhra Pradesh,2020-01-31,11.26
+Assam,2020-01-31,0.6
+Bihar,2020-01-31,1.32
+Chandigarh,2020-01-31,0.38
+Chattisgarh,2020-01-31,0.62
+Delhi,2020-01-31,4.13
+Goa,2020-01-31,0.13
+Gujarath,2020-01-31,8.6
+Haryana,2020-01-31,6.79
+Himachal Pradesh,2020-01-31,0.41
+Jammu and Kashmir,2020-01-31,0.18
+Jharkand,2020-01-31,1.24
+Karnataka,2020-01-31,5.24
+Kerala,2020-01-31,2.4
+Madhya Pradesh,2020-01-31,2.97
+Maharashrta,2020-01-31,13.71
+Odisha,2020-01-31,1.35
+Punjab,2020-01-31,1.71
+Rajasthan,2020-01-31,5.17
+Tamil Nadu,2020-01-31,14.2
+Telangana,2020-01-31,2.97
+Uttar Pradesh,2020-01-31,7.07
+Uttarakhand,2020-01-31,1.21
+West Bengal,2020-01-31,3.36
+Andhra Pradesh,2020-02-29,10.41
+Assam,2020-02-29,0.39
+Bihar,2020-02-29,1.34
+Chandigarh,2020-02-29,0.55
+Chattisgarh,2020-02-29,0.66
+Delhi,2020-02-29,4.39
+Goa,2020-02-29,0.16
+Gujarath,2020-02-29,8.17
+Haryana,2020-02-29,7.26
+Himachal Pradesh,2020-02-29,0.41
+Jammu and Kashmir,2020-02-29,0.21
+Jharkand,2020-02-29,1.56
+Karnataka,2020-02-29,5.56
+Kerala,2020-02-29,2.34
+Madhya Pradesh,2020-02-29,2.94
+Maharashrta,2020-02-29,13.78
+Odisha,2020-02-29,1.14
+Punjab,2020-02-29,1.63
+Rajasthan,2020-02-29,5.06
+Tamil Nadu,2020-02-29,14.24
+Telangana,2020-02-29,3.21
+Uttar Pradesh,2020-02-29,7.74
+Uttarakhand,2020-02-29,1.12
+West Bengal,2020-02-29,3.09
+Andhra Pradesh,2020-03-31,9.79
+Assam,2020-03-31,0.34
+Bihar,2020-03-31,1.12
+Chandigarh,2020-03-31,0.66
+Chattisgarh,2020-03-31,0.64
+Delhi,2020-03-31,4.61
+Goa,2020-03-31,0.1
+Gujarath,2020-03-31,7.73
+Haryana,2020-03-31,9.17
+Himachal Pradesh,2020-03-31,0.31
+Jammu and Kashmir,2020-03-31,0.17
+Jharkand,2020-03-31,1.47
+Karnataka,2020-03-31,6.3
+Kerala,2020-03-31,2.33
+Madhya Pradesh,2020-03-31,2.74
+Maharashrta,2020-03-31,13.69
+Odisha,2020-03-31,1
+Punjab,2020-03-31,1.62
+Rajasthan,2020-03-31,5.03
+Tamil Nadu,2020-03-31,13.61
+Telangana,2020-03-31,3.26
+Uttar Pradesh,2020-03-31,7.67
+Uttarakhand,2020-03-31,0.86
+West Bengal,2020-03-31,3.13
+Andhra Pradesh,2020-04-30,8.76
+Assam,2020-04-30,0.31
+Bihar,2020-04-30,1.14
+Chandigarh,2020-04-30,0.62
+Chattisgarh,2020-04-30,0.59
+Delhi,2020-04-30,4.08
+Goa,2020-04-30,0.12
+Gujarath,2020-04-30,8.58
+Haryana,2020-04-30,11.58
+Himachal Pradesh,2020-04-30,0.2
+Jammu and Kashmir,2020-04-30,0.19
+Jharkand,2020-04-30,1.29
+Karnataka,2020-04-30,4.94
+Kerala,2020-04-30,2.7
+Madhya Pradesh,2020-04-30,3.11
+Maharashrta,2020-04-30,13.16
+Odisha,2020-04-30,1.16
+Punjab,2020-04-30,1.63
+Rajasthan,2020-04-30,5.27
+Tamil Nadu,2020-04-30,15.08
+Telangana,2020-04-30,2.31
+Uttar Pradesh,2020-04-30,7.65
+Uttarakhand,2020-04-30,0.67
+West Bengal,2020-04-30,2.95
+Andhra Pradesh,2020-05-31,8.86
+Assam,2020-05-31,0.34
+Bihar,2020-05-31,1.2
+Chandigarh,2020-05-31,0.63
+Chattisgarh,2020-05-31,0.76
+Delhi,2020-05-31,4.38
+Goa,2020-05-31,0.11
+Gujarath,2020-05-31,9.06
+Haryana,2020-05-31,8.18
+Himachal Pradesh,2020-05-31,0.19
+Jammu and Kashmir,2020-05-31,0.32
+Jharkand,2020-05-31,1.41
+Karnataka,2020-05-31,5.41
+Kerala,2020-05-31,2.49
+Madhya Pradesh,2020-05-31,3.48
+Maharashrta,2020-05-31,13.72
+Odisha,2020-05-31,1.18
+Punjab,2020-05-31,1.78
+Rajasthan,2020-05-31,5.48
+Tamil Nadu,2020-05-31,14.27
+Telangana,2020-05-31,2.43
+Uttar Pradesh,2020-05-31,8.43
+Uttarakhand,2020-05-31,0.84
+West Bengal,2020-05-31,3
+Andhra Pradesh,2020-06-30,8.62
+Assam,2020-06-30,0.43
+Bihar,2020-06-30,1.19
+Chandigarh,2020-06-30,0.42
+Chattisgarh,2020-06-30,0.8
+Delhi,2020-06-30,4.66
+Goa,2020-06-30,0.11
+Gujarath,2020-06-30,9.33
+Haryana,2020-06-30,9.27
+Himachal Pradesh,2020-06-30,0.31
+Jammu and Kashmir,2020-06-30,0.18
+Jharkand,2020-06-30,1.54
+Karnataka,2020-06-30,5.55
+Kerala,2020-06-30,2.62
+Madhya Pradesh,2020-06-30,3.5
+Maharashrta,2020-06-30,13.68
+Odisha,2020-06-30,1.15
+Punjab,2020-06-30,1.7
+Rajasthan,2020-06-30,5.35
+Tamil Nadu,2020-06-30,13.9
+Telangana,2020-06-30,2.51
+Uttar Pradesh,2020-06-30,8.63
+Uttarakhand,2020-06-30,0.68
+West Bengal,2020-06-30,2.81
+Andhra Pradesh,2020-07-31,8.38
+Assam,2020-07-31,0.41
+Bihar,2020-07-31,1.31
+Chandigarh,2020-07-31,0.43
+Chattisgarh,2020-07-31,0.84
+Delhi,2020-07-31,4.77
+Goa,2020-07-31,0.11
+Gujarath,2020-07-31,9.62
+Haryana,2020-07-31,7.39
+Himachal Pradesh,2020-07-31,0.39
+Jammu and Kashmir,2020-07-31,0.19
+Jharkand,2020-07-31,1.36
+Karnataka,2020-07-31,5.94
+Kerala,2020-07-31,2.71
+Madhya Pradesh,2020-07-31,4.09
+Maharashrta,2020-07-31,14.78
+Odisha,2020-07-31,1.13
+Punjab,2020-07-31,1.68
+Rajasthan,2020-07-31,5.64
+Tamil Nadu,2020-07-31,13.39
+Telangana,2020-07-31,2.89
+Uttar Pradesh,2020-07-31,7.94
+Uttarakhand,2020-07-31,0.55
+West Bengal,2020-07-31,2.89
+Andhra Pradesh,2020-08-31,8.06
+Assam,2020-08-31,0.4
+Bihar,2020-08-31,1.2
+Chandigarh,2020-08-31,0.58
+Chattisgarh,2020-08-31,0.88
+Delhi,2020-08-31,5.2
+Goa,2020-08-31,0.13
+Gujarath,2020-08-31,10.37
+Haryana,2020-08-31,6.12
+Himachal Pradesh,2020-08-31,0.38
+Jammu and Kashmir,2020-08-31,0.19
+Jharkand,2020-08-31,1.25
+Karnataka,2020-08-31,5.86
+Kerala,2020-08-31,3.05
+Madhya Pradesh,2020-08-31,3.81
+Maharashrta,2020-08-31,14.91
+Odisha,2020-08-31,1.09
+Punjab,2020-08-31,1.69
+Rajasthan,2020-08-31,5.79
+Tamil Nadu,2020-08-31,12.22
+Telangana,2020-08-31,3.36
+Uttar Pradesh,2020-08-31,7.75
+Uttarakhand,2020-08-31,0.51
+West Bengal,2020-08-31,3.44
+Andhra Pradesh,2020-09-30,8.07
+Assam,2020-09-30,0.34
+Bihar,2020-09-30,1.22
+Chandigarh,2020-09-30,0.47
+Chattisgarh,2020-09-30,0.81
+Delhi,2020-09-30,5.23
+Goa,2020-09-30,0.08
+Gujarath,2020-09-30,9.22
+Haryana,2020-09-30,7.18
+Himachal Pradesh,2020-09-30,0.19
+Jammu and Kashmir,2020-09-30,0.22
+Jharkand,2020-09-30,1.31
+Karnataka,2020-09-30,5.94
+Kerala,2020-09-30,2.9
+Madhya Pradesh,2020-09-30,3.94
+Maharashrta,2020-09-30,14.82
+Odisha,2020-09-30,1.17
+Punjab,2020-09-30,1.49
+Rajasthan,2020-09-30,5.93
+Tamil Nadu,2020-09-30,12.52
+Telangana,2020-09-30,3.66
+Uttar Pradesh,2020-09-30,7.4
+Uttarakhand,2020-09-30,0.66
+West Bengal,2020-09-30,3.27
+Andhra Pradesh,2020-10-31,7.52
+Assam,2020-10-31,0.36
+Bihar,2020-10-31,1.17
+Chandigarh,2020-10-31,0.32
+Chattisgarh,2020-10-31,0.79
+Delhi,2020-10-31,4.67
+Goa,2020-10-31,0.1
+Gujarath,2020-10-31,9.05
+Haryana,2020-10-31,7.35
+Himachal Pradesh,2020-10-31,0.19
+Jammu and Kashmir,2020-10-31,0.2
+Jharkand,2020-10-31,1.25
+Karnataka,2020-10-31,5.69
+Kerala,2020-10-31,3.16
+Madhya Pradesh,2020-10-31,4.33
+Maharashrta,2020-10-31,14.91
+Odisha,2020-10-31,1.21
+Punjab,2020-10-31,1.43
+Rajasthan,2020-10-31,5.08
+Tamil Nadu,2020-10-31,12.72
+Telangana,2020-10-31,3.98
+Uttar Pradesh,2020-10-31,7.89
+Uttarakhand,2020-10-31,0.49
+West Bengal,2020-10-31,2.98
+Andhra Pradesh,2020-11-30,6.76
+Assam,2020-11-30,0.31
+Bihar,2020-11-30,0.99
+Chandigarh,2020-11-30,0.38
+Chattisgarh,2020-11-30,0.85
+Delhi,2020-11-30,4.75
+Goa,2020-11-30,0.07
+Gujarath,2020-11-30,8.72
+Haryana,2020-11-30,13.01
+Himachal Pradesh,2020-11-30,0.21
+Jammu and Kashmir,2020-11-30,0.21
+Jharkand,2020-11-30,1.13
+Karnataka,2020-11-30,5.22
+Kerala,2020-11-30,2.72
+Madhya Pradesh,2020-11-30,3.71
+Maharashrta,2020-11-30,13.88
+Odisha,2020-11-30,0.93
+Punjab,2020-11-30,1.43
+Rajasthan,2020-11-30,5.4
+Tamil Nadu,2020-11-30,10.96
+Telangana,2020-11-30,3.69
+Uttar Pradesh,2020-11-30,7.97
+Uttarakhand,2020-11-30,0.51
+West Bengal,2020-11-30,2.66
